@@ -1,3 +1,6 @@
+# ATTENTION
+This repository is no longer recommended. Feast your eyes upon https://github.com/reload/action-style-quality/ instead.
+
 # action-stylelint
 GitHub action examples that runs stylelint and reports the result to reviewdog.
 
